@@ -873,3 +873,14 @@ footer p {
     }
 
 }
+@media (max-width: 576px) {
+
+    .google-form-box {
+        padding: 5px;
+        border-radius: 12px;
+    }
+
+    .google-form-box iframe {
+        height: 1000px;
+    }
+}
